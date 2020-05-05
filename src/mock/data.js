@@ -125,11 +125,6 @@ export const footerData = {
   networks: [
     {
       id: uuidv1(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: uuidv1(),
       name: 'linkedin',
       url: 'https://www.linkedin.com/in/bassam-kazemi/',
     },
