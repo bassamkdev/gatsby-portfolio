@@ -3,9 +3,9 @@ import { faReact, faNode, faJs, faAws, faHtml5, faCss3 } from '@fortawesome/free
 
 // HEAD DATA
 export const headData = {
-  title: 'BassamK Developer', // e.g: 'Name | Developer'
+  title: 'Bassam Kazemi', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Welcome to my website', // e.g: Welcome to my website
+  description: 'Bassam Kazemi, Full Stack Developer', // e.g: Welcome to my website
 };
 
 // HERO DATA
@@ -134,9 +134,4 @@ export const footerData = {
       url: 'https://github.com/bassamkdev',
     },
   ],
-};
-
-// Github start/fork buttons
-export const githubButtons = {
-  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
