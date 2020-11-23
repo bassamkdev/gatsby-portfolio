@@ -5,7 +5,7 @@ import { faReact, faNode, faJs, faHtml5, faCss3 } from '@fortawesome/free-brands
 export const headData = {
   title: 'Bassam Kazemi', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Bassam Kazemi, Full Stack Developer', // e.g: Welcome to my website
+  description: 'Come check out how Bassam Kazemi can help as a front end developer', // e.g: Welcome to my website
 };
 
 // HERO DATA

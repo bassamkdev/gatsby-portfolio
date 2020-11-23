@@ -10,6 +10,10 @@ const siteUrl = isNetlifyProduction ? NETLIFY_SITE_URL : NETLIFY_DEPLOY_URL;
 module.exports = {
   siteMetadata: {
     siteUrl,
+    title: 'Bassam Kazemi Web Development Portfolio',
+    description: `I'm a Front-End (React.js) developer`,
+    author: 'Bassam Kazemi',
+    keywords: ['reactjs', 'web development', 'frontend', 'backend', 'javascript', 'html', 'css'],
   },
   plugins: [
     `gatsby-plugin-sass`,
