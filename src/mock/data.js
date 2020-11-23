@@ -12,7 +12,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Bassam',
-  subtitle: "I'm a Full Stack Web Developer",
+  subtitle: "I'm a Front End Developer",
   cta: 'Know more',
 };
 
@@ -22,7 +22,7 @@ export const aboutData = {
   paragraphOne:
     'Studied Civil Engineering with a specialization in Transportation Planning. Working on Mathematical Optimization Algorithms for my Master thesis made me obsessed with coding which became the turning point of my life.',
   paragraphTwo:
-    'chose Full Stack Development as the way to go, and So far learned two stacks, including MERN and SERN, and striving to provide a diverse skill-set and knowledge cause I am ever eager to learn and work out of my comfort zone.',
+    'chose Web Development as the way to go, and So far learned two stacks, including MERN and SERN, and striving to provide a diverse skill-set and knowledge cause I am ever eager to learn and work out of my comfort zone.',
   paragraphThree: 'Technical Skills:',
   skills: [
     {
