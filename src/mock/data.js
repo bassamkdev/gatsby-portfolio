@@ -1,5 +1,5 @@
 import uuidv1 from 'uuid/v1';
-import { faReact, faNode, faJs, faAws, faHtml5, faCss3 } from '@fortawesome/free-brands-svg-icons';
+import { faReact, faNode, faJs, faHtml5, faCss3 } from '@fortawesome/free-brands-svg-icons';
 
 // HEAD DATA
 export const headData = {
@@ -39,11 +39,6 @@ export const aboutData = {
       id: uuidv1(),
       name: faJs,
       url: 'https://www.javascript.com/',
-    },
-    {
-      id: uuidv1(),
-      name: faAws,
-      url: 'https://aws.amazon.com/',
     },
     {
       id: uuidv1(),
