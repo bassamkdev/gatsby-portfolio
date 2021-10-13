@@ -51,8 +51,7 @@ export const aboutData = {
       url: 'https://www.w3.org/',
     },
   ],
-  resume:
-    'https://app.enhancv.com/share/8dcf41bb?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1CydqQv1MRiz9u1cHGPeCeTMtbka7eJ60/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
